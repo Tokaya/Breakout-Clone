@@ -4,13 +4,13 @@ from cocos.sprite import Sprite
 class Paddle(object):
     def __init__(self, imagepath):
         super(Paddle, self).__init__()
-        self.sprite = Sprite(imagepath)
+        self.sprite = Sprite(imagepath, anchor=(0, 0))
         self.speed = 10
         self.move_left = False
         self.move_right = False
 
     def reset(self):
-        self.sprite.position = (320, 0)
+        self.sprite.position = (270, 0)
 
     def update(self):
         x, y = self.sprite.position
