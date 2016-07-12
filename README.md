@@ -30,6 +30,10 @@
 8. 实现砖块变硬，具有打碎效果
 9. 添加排行榜功能
 
-效果图：
+口袋妖怪皮肤效果图：
 
 ![](http://imglf0.nosdn.127.net/img/a0w1T01hSWwyYWR6eExhck1ERElIR1pkYzV3RW9qVCtHc21naXBJOE56RzNqdzBPbG5GMTJ3PT0.gif)
+
+正经游戏效果图：
+
+![](http://imglf.nosdn.127.net/img/a0w1T01hSWwyYWYrMnJ6MVgyR1UxdVFSbDlyQXZRMHg4ckgvZFpiTFlMWThzN1pBZFNsQXJnPT0.gif)
